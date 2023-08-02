@@ -4,7 +4,9 @@
  * print_listint - prints all the elements of a linked list
  * @h: linked list of type listint_t to print
  * 
- * this function prints each integer element stored in the linked list starting from the head node. It counts and returns the number of nodes
+ * this function prints each integer element stored in the linked list 
+ * starting from the head node. It counts and returns the number of nodes
+ *
  * Return: number of nodes
  */
 size_t print_listint(const listint_t *h)
